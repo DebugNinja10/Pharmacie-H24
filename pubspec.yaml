@@ -1,0 +1,48 @@
+name: sunupharm_app
+description: Application Pharmacie H24 au Sénégal
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.3.2    # mise à jour vers la dernière version stable
+
+  # Firebase dernière version compatible avec Flutter 3.x
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
+  cloud_firestore: ^5.4.5
+  firebase_storage: ^12.1.0
+
+  # Google Maps + Géolocalisation
+  google_maps_flutter: ^2.8.0
+  geolocator: ^12.0.0
+  permission_handler: ^11.3.0
+
+  # Animations
+  lottie: ^2.7.0
+  animated_background: ^2.0.0
+  sensors_plus: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.10.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/animation.json
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.jpg" # chemin vers ton image
