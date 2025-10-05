@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sunupharm_new
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Pharmacie-H24
+>>>>>>> b44d1b27adbc33b6da5748ea7319da93e1a7f0ce
