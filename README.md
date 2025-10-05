@@ -12,8 +12,14 @@
 ---
 
 ## 📸 Aperçu
-![Screenshot accueil](assets/images/screenshot-accueil.png)  
-![Screenshot liste pharmacies](assets/images/screenshot-liste.png)
+<p align="center">
+  <img src="assets/images/screenshot-accueil.png" alt="Screenshot accueil" width="400"/>
+</p>
+
+<p align="center">
+  <img src="assets/images/screenshot-liste.png" alt="Screenshot liste pharmacies" width="400"/>
+</p>
+
 
 
 ---
