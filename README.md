@@ -1,20 +1,72 @@
-<<<<<<< HEAD
-# sunupharm_new
+# 🏥 Pharmacie H24
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-## Getting Started
+**Application Flutter/Dart** qui permet aux utilisateurs de :  
+- Trouver les **pharmacies de garde en temps réel**  
+- Localiser la **pharmacie la plus proche** selon leur position  
+- Obtenir la **distance en km et l’itinéraire via Google Maps**
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Aperçu
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot accueil](./assets/screenshot-accueil.png)  
+![Screenshot liste pharmacies](./assets/screenshot-liste.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Pharmacie-H24
->>>>>>> b44d1b27adbc33b6da5748ea7319da93e1a7f0ce
+---
+
+## ⚡ Fonctionnalités
+
+- Recherche en temps réel des pharmacies ouvertes  
+- Affichage sur carte avec itinéraire et distance  
+- Notifications (optionnel)  
+- Multi-plateforme : Android, iOS, Web  
+
+---
+
+## 🛠️ Technologies et outils
+
+- **Langages :** Dart, Flutter  
+- **IDE :** VS Code, Android Studio  
+- **APIs :** Google Maps API  
+- **Sécurité :** Bonnes pratiques pour protéger les données et l’application  
+
+---
+
+## 🚀 Installation
+
+1. Cloner le dépôt :  
+
+```bash
+git clone https://github.com/DebugNinja10/Pharmacie-H24.git
+
+Aller dans le dossier du projet :
+
+cd Pharmacie-H24
+
+
+Installer les dépendances :
+
+flutter pub get
+
+
+Lancer l’application :
+
+flutter run
+
+💡 Ressources
+
+Documentation Flutter
+
+Codelab Flutter
+
+🌟 Auteur
+
+Abdou Aziz Seck — Développeur Fullstack & Flutter / Cybersécurité
+
+GitHub : DebugNinja10
+
+Email : seckabdouaziz749@gmail.com
