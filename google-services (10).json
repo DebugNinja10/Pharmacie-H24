@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8068942241",
+    "project_id": "pharmacie-h24-3b58a",
+    "storage_bucket": "pharmacie-h24-3b58a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8068942241:android:14a5089afb5dc9ce9523e0",
+        "android_client_info": {
+          "package_name": "com.ibms.pharmacieh24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNX-iP-GDS8xAIC-C94foArWkxDKfomOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
